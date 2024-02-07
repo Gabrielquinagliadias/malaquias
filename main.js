@@ -1,0 +1,1 @@
+alert("Atençao Voce tem de +18 anos?")
